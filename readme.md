@@ -30,6 +30,6 @@ This script requires [jpegoptim](https://github.com/tjko/jpegoptim) installed on
 ## Contribute ##
 Anyone is welcome to contribute to this script. There are various ways you can contribute:
 
-- Raise an [Issue](https://github.com/keha76/Optimize-Images/issues)
+- Raise an [Issue](https://github.com/kenthhagstrom/Optimize-Images/issues/new)
 - Send a Pull Request with your bug fixes and/or new features
 - Provide feedback and suggestions
